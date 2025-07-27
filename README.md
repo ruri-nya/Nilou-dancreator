@@ -11,7 +11,7 @@ Pythonで書かれた太鼓の達人創作段位用のアシストツールで�
 ```japanese/日本語```
 
 ## Download
-Here(https://github.com/ruri-nya/Nilou-dancreator/releases/tag/release)
+[Here](https://github.com/ruri-nya/Nilou-dancreator/releases/tag/release)
 
 ## Author
 
