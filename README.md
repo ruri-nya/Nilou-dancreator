@@ -10,11 +10,8 @@ Pythonで書かれた太鼓の達人創作段位用のアシストツールで�
 ## Language
 ```japanese/日本語```
 
-## Requirement
-```
-python 3.10
-customtkinter
-```
+## Download
+Here(https://github.com/ruri-nya/Nilou-dancreator/releases/tag/release)
 
 ## Author
 
